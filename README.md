@@ -1,6 +1,6 @@
 # ![logo](src/LINE.png) LINE Js-kicker
 
-Dangerous ⚠ Use it at your own risk !
+Dangerous ⚠ use it at your own sin !
 
 
 How to run ?
